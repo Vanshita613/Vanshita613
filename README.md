@@ -1,4 +1,4 @@
-##✨ Hi there, I'm Vanshita!
+## ✨ Hi there, I'm Vanshita!
 
 🎓 1st Year CSBS Student
 💻 Passionate about Technology, Coding, and Building Projects
@@ -9,7 +9,7 @@ I’m currently learning and exploring different areas of computer science while
 
 --- 
 
-##🚀 About Me
+## 🚀 About Me
 
 🎓 1st Year Computer Science & Business Systems (CSBS) student
 
@@ -24,7 +24,7 @@ I’m currently learning and exploring different areas of computer science while
 ---
 
 
-##💻 Tech Stack
+## 💻 Tech Stack
 
    ##Languages
 
@@ -32,11 +32,11 @@ I’m currently learning and exploring different areas of computer science while
 
           C++
 
-          HTML
+          HTML/CSS
 
-          CSS
+          Python
 
-         JavaScript (learning)
+          JavaScript (learning)
 
    ##Tools & Technologies
 
@@ -49,7 +49,7 @@ I’m currently learning and exploring different areas of computer science while
   ---
   
 
-##Currently Learning
+## Currently Learning
 
 🌐 Web Development
 
@@ -60,7 +60,7 @@ I’m currently learning and exploring different areas of computer science while
 ---
 
 
-##📌 Current Goals
+## 📌 Current Goals
 
 - Build real-world projects
 
@@ -75,7 +75,7 @@ I’m currently learning and exploring different areas of computer science while
 ---
 
 
-##📂 Projects
+## 📂 Projects
 
 Here are some projects I’m working on:
 
@@ -88,7 +88,7 @@ Here are some projects I’m working on:
 ---
 
 
-##🌐 Connect With Me
+## 🌐 Connect With Me
 
 GitHub: https://github.com/Vanshita613
 
