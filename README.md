@@ -1,7 +1,7 @@
 ## ✨ Hi there, I'm Vanshita!
 
 🎓 **1st Year CSBS Student**
-💻 Passionate about **Technology, Coding, and Building Projects**
+💻 **Passionate about **Technology, Coding, and Building Projects**
 
 I’m currently learning and exploring different areas of computer science while building projects and improving my skills.
 
@@ -64,13 +64,6 @@ Here are some projects I’m working on:
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vanshita613\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vanshita613\&layout=compact\&theme=tokyonight)
-
----
 
 ## 🌐 Connect With Me
 
