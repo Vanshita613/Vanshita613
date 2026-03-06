@@ -1,76 +1,56 @@
 ## ✨ Hi there, I'm Vanshita!
 
-🎓 1st Year CSBS Student.
-💻 Passionate about Technology, Coding, and Building Projects.
-📎  Currently learning and exploring different areas of computer science while building projects and improving my skills.
+🎓 **1st Year CSBS Student**
+💻 Passionate about **Technology, Coding, and Building Projects**
 
---- 
+I’m currently learning and exploring different areas of computer science while building projects and improving my skills.
+
+---
 
 ## 🚀 About Me
 
-🎓 1st Year Computer Science & Business Systems (CSBS) student
-
-💡 Interested in Web Development, Artificial Intelligence, and Problem Solving
-
-🧠 Learning Data Structures & Algorithms in C/C++
-
-🛠 Building projects to improve practical skills
-
-🌱 Always trying to learn something new in tech
+* 🎓 1st Year **Computer Science & Business Systems (CSBS)** student
+* 💡 Interested in **Web Development, Artificial Intelligence, and Problem Solving**
+* 🧠 Learning **Data Structures & Algorithms in C/C++**
+* 🛠 Building projects to improve practical skills
+* 🌱 Always trying to learn something new in tech
 
 ---
-
 
 ## 💻 Tech Stack
 
-   ##Languages
+### Languages
 
-          C
+* C
+* C++
+* HTML
+* CSS
+* JavaScript (learning)
+* Python
 
-          C++
+### Tools & Technologies
 
-          HTML/CSS
+* Git
+* GitHub
+* VS Code
 
-          Python
+### Currently Learning
 
-          JavaScript (learning)
-
-   ##Tools & Technologies
-
-          Git
- 
-          GitHub
-
-          VS Code
-
-  ---
-  
-
-## Currently Learning
-
-🌐 Web Development
-
-🤖 Artificial Intelligence
-
-📚 Data Structures & Algorithms
+* 🌐 Web Development
+* 🤖 Artificial Intelligence
+* 📚 Data Structures & Algorithms
 
 ---
-
 
 ## 📌 Current Goals
 
-- Build real-world projects
-
-- Improve problem solving skills
-
-- Contribute to open source
-
-- Strengthen DSA concepts
-
-- Learn modern web development
+* Build **real-world projects**
+* Improve **problem solving skills**
+* Contribute to **open source**
+* Strengthen **DSA concepts**
+* Learn **modern web development**
 
 ---
-
 
 ## 📂 Projects
 
@@ -80,19 +60,27 @@ Here are some projects I’m working on:
 🔹 Web development mini projects
 🔹 AI learning experiments
 
-(More projects coming soon...)
+*(More projects coming soon...)*
 
 ---
 
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vanshita613\&show_icons=true\&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vanshita613\&layout=compact\&theme=tokyonight)
+
+---
 
 ## 🌐 Connect With Me
 
-GitHub: https://github.com/Vanshita613
-
-Gmail: kalyanevanshita07@gmail.com
+* GitHub: [https://github.com/YOUR_USERNAME](https://github.com/Vanshita613)
+* LinkedIn: (add when you create)
+* Gmail: kalyanevanshita07@gmail.com
 
 ---
 
-⭐ “Learning step by step and building things that matter.”
+⭐ *“Learning step by step and building things that matter.”*
 
+---
 
