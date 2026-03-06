@@ -1,11 +1,8 @@
 ## ✨ Hi there, I'm Vanshita!
 
-🎓 1st Year CSBS Student
-💻 Passionate about Technology, Coding, and Building Projects
-
----
-
-I’m currently learning and exploring different areas of computer science while building projects and improving my skills.
+🎓 1st Year CSBS Student.
+💻 Passionate about Technology, Coding, and Building Projects.
+📎  Currently learning and exploring different areas of computer science while building projects and improving my skills.
 
 --- 
 
