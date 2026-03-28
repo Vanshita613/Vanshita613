@@ -60,7 +60,7 @@ Here are some projects I’m working on:
 * 🔹 Web development mini projects
 * 🔹 AI learning experiments
 
-*(More projects coming soon...)*
+
 
 ---
 
@@ -68,6 +68,7 @@ Here are some projects I’m working on:
 ## 🌐 Connect With Me
 
 * GitHub: [https://github.com/YOUR_USERNAME](https://github.com/Vanshita613)
+  
 * Gmail: kalyanevanshita07@gmail.com
 
 ---
