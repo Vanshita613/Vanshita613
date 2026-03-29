@@ -67,8 +67,7 @@ Here are some projects I’m working on:
 
 ## 🌐 Connect With Me
 
-* GitHub: [https://github.com/YOUR_USERNAME](https://github.com/Vanshita613)
-  
+* GitHub: [https://github.com/YOUR_USERNAME](https://github.com/Vanshita613)  
 * Gmail: kalyanevanshita07@gmail.com
 
 ---
