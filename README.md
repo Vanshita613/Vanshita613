@@ -59,6 +59,7 @@ Here are some projects I’m working on:
 * 🔹 Data Structures programs in C/C++
 * 🔹 Web development mini projects
 * 🔹 AI learning experiments
+* Pyhton Projects
 
 
 
