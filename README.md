@@ -9,7 +9,7 @@ I’m currently learning and exploring different areas of computer science while
 
 ## 🚀 About Me
 
-* 🎓 1st Year **Computer Science & Business Systems (CSBS)** student
+* 🎓 2nd Year **Computer Science & Business Systems (CSBS)** student
 * 💡 Interested in **Web Development, Artificial Intelligence, and Problem Solving**
 * 🧠 Learning **Data Structures & Algorithms in C/C++**
 * 🛠 Building projects to improve practical skills
